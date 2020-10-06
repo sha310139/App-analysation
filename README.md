@@ -78,6 +78,7 @@ https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
 ## 結果
 使用KFold cross validate<br>
 n_splits=10<br>
+
     Classfier_name	  train_score	test_score
     
     SVC	          0.949655	0.623874
